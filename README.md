@@ -1,5 +1,5 @@
 # LP_Lab
-S7 Panguage Processeing lab
+S7 Language Processeing lab
 
 # DFA programs are coded in C language 
 # Run :
