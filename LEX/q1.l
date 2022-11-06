@@ -23,4 +23,5 @@ int main()
 	printf("Enter the string : ");
 	yylex();
 	return 0;
+	
 }
