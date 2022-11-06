@@ -67,3 +67,4 @@ void main()
 	else
 		printf("The string %s  is not valid ",s);
 }
+
